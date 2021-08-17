@@ -1,0 +1,15 @@
+{
+    "trust_1_top10": {
+        "2**19": "./clicks/524288.trust_1_top10.lgbm_20_3.set1.pkl"
+    },
+    "trust_1_top50": {
+        "2**19": "./clicks/524288.trust_1_top50.lgbm_20_3.set1.pkl"
+    },
+    "ideal_top10": {
+        "2**19": "./clicks/524288.ideal_top10.lgbm_20_3.set1.pkl"
+    },
+    "ideal_top20": {
+        "2**18": "./clicks/262144.ideal_top20.lgbm_20_3.set1.pkl",
+        "2**22": "./clicks/4194304.ideal_top20.lgbm_20_3.set1.pkl"
+    }
+}

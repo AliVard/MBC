@@ -1,0 +1,28 @@
+{
+  "Webscope_C14_Set1": {
+    "num_folds": 1,
+    "fold_paths": 
+      [
+        "./Yahoo/Challenge/ltrc_yahoo/set1."
+      ],
+    "num_relevance_labels": 5,
+    "num_nonzero_feat": 519,
+    "num_unique_feat": 501,
+    "query_normalized": false
+  },
+  "MSLR-WEB30k": {
+    "num_folds": 5,
+    "fold_paths": 
+      [
+        "./Microsoft/MSLR-WEB30K/Fold1/",
+        "./Microsoft/MSLR-WEB30K/Fold2/",
+        "./Microsoft/MSLR-WEB30K/Fold3/",
+        "./Microsoft/MSLR-WEB30K/Fold4/",
+        "./Microsoft/MSLR-WEB30K/Fold5/"
+      ],
+    "num_relevance_labels": 5,
+    "num_nonzero_feat": 136,
+    "num_unique_feat": 131,
+    "query_normalized": false
+  }
+}
